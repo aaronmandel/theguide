@@ -23,17 +23,17 @@ Lets review the what I mean by a true neutral:
 
 <br/>For now I'll focus on what to do on a map where 'true' neutral is achievable:
 
-In short your options are to defend or attack. At the start of the game since both teams are equally spaced it is possible for the 'front' player to go on the offensive and as soon as they land go in for a dash attack to catch their opponent off guard to get quick early damage, this called a 'wake-up'. However, if you should be aware of the pros and cons of this.
+In short your options are to defend or attack. At the start of the game since both teams are equally spaced it is possible for the 'front' player to go on the offensive and as soon as they land go in for a dash attack to catch their opponent off guard to get quick early damage, this called a *'wake-up'.* However, if you should be aware of the pros and cons of this.
 
 
-How to 'wake-up':
+### How to 'wake-up':
 Waking up on the ground:
 - Dash down and slight (kick for unarmed):
     Inputs: Dash down, Slight (think think of it as together)
     - sLight (Side light) moves your character and does not hold you in place as opposed to nLight (neutral light), meaning on miss it's harder to punish
     - sLight has lower recovery frames (stupid I know) than neutral light on miss; meaning its a safer option
     - sLight does more damage than neutral light
-Waking up in the air:
+> Waking up in the air: 
 - Dash down and jump nair (neutral air): 
     Inputs: Dash down, jump, nair (one input)
     - For Neutral Air the frames work towards your favour; neutral air being a longer lasting attack means that you can act as a 'wall' where you will catch someone trying to dash in and jump over you to steal your weapon as well as catch someone trying to gain more ground by repostioning as you will catch this with the ending parts of nair
