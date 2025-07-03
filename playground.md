@@ -9,16 +9,16 @@ Lets review the what I mean by a true neutral:
     - Each weapon spawn will change subject to the map
 
 'true' neutral maps:
-    - Miami Dome
-    - Demon Island
-    - Western Air Temple
-    - Small Terminus
-    - Suzaku Castle
-    - Mishima Dojo
+- Miami Dome
+- Demon Island
+- Western Air Temple
+- Small Terminus
+- Suzaku Castle
+ - Mishima Dojo
 
 Maps that do not have 'true' neutral:
-    - Apocalypse
-    - Small Fortress of Lions
+- Apocalypse
+- Small Fortress of Lions
 
 
 For now I'll focus on what to do on a map where 'true' neutral is achievable:
