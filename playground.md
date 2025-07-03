@@ -97,7 +97,7 @@ Half Stage is simplest but most effective method to learn positioning:
  - Diagonal Half Stage = Half Staginig with one person floating
  - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
 
-### Half and Half:
+### Half and Half: </br>
 *What does both teams half staging entail? If both teams are half staging in allows for a number of things:*
    - 'front' teammate's job is to either hit first or bait out an attack or punish
    - 'back' teammate's job is to follow up or equalise if 'front' teammate misses
@@ -106,11 +106,8 @@ Half Stage is simplest but most effective method to learn positioning:
         Keep your half stage but try to move around baiting, only throw out non commit moves when you have a prediction of how the enemy will be moving (eg: sword or bow nair); When moving use everything jump (no more than one jump baiting, use a second jump to pull back if your scared to reset), dash, dash cancel, back dash, dodge.
 
 
-##### Sandwich:
+##### Sandwich: </br>
 Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall
-
-
-
-##### Thought process: 
+##### Thought process:  </br>
 > <br/>Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding<br/> What does this setup: <br/>It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
 
