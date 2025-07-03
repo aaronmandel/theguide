@@ -56,7 +56,7 @@ Cons:
 
 
 
-## What does not having true neutral entail:
+## What does not having true neutral entail: <br/>
     When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
 
     For now I'll briefly go into what you guys should be thinking when you see a platform:
@@ -71,7 +71,7 @@ Cons:
 
 
 
-Guide for 2v2:
+# Guide for 2v2:
 - **One person on the stage at all times**
 - It's better to not get hit than finish a combo (Exception is if you can kill or gain a position where you can guarentee kill)
 - **Stay half a stage apart at all times** (refer to positioning for further clarity)
@@ -82,7 +82,7 @@ Guide for 2v2:
 - **Its better to let a combo go than die, or hit your teammate**
 - **Do not take the punish if you yourself are getting punished for the attack** (logically: enemy gets 2 hits, you guys get 1 hit)
 
-## Positioning
+## Positioning in 2v2
 This is most important part of 2v2, if you do this better than your opponent then you win even if your opponent is the 'better' player
 
 
