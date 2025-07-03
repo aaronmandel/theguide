@@ -27,14 +27,14 @@ In short your options are to defend or attack. At the start of the game since bo
 
 
 ### How to 'wake-up':
-Waking up on the ground:
-- Dash down and slight (kick for unarmed):
-    Inputs: Dash down, Slight (think think of it as together)
-    - sLight (Side light) moves your character and does not hold you in place as opposed to nLight (neutral light), meaning on miss it's harder to punish
-    - sLight has lower recovery frames (stupid I know) than neutral light on miss; meaning its a safer option
-    - sLight does more damage than neutral light <br/>
+#### Waking up on the ground:
+> Dash down and slight (kick for unarmed):
+   > Inputs: Dash down, Slight (think think of it as together)
+    >- sLight (Side light) moves your character and does not hold you in place as opposed to nLight (neutral light), meaning on miss it's harder to punish
+    >- sLight has lower recovery frames (stupid I know) than neutral light on miss; meaning its a safer option
+    >- sLight does more damage than neutral light <br/>
 > Waking up in the air: 
-- Dash down and jump nair (neutral air): 
+-Dash down and jump nair (neutral air): 
     Inputs: Dash down, jump, nair (one input)
     - For Neutral Air the frames work towards your favour; neutral air being a longer lasting attack means that you can act as a 'wall' where you will catch someone trying to dash in and jump over you to steal your weapon as well as catch someone trying to gain more ground by repostioning as you will catch this with the ending parts of nair
     - nAir is safe on miss as falling onto the ground helps 'reset' your frames reducing the stun
