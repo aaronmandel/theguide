@@ -8,7 +8,7 @@ Lets review the what I mean by a true neutral:
     - A weapon will spawn either on the 'front' or 'back' player
     - Each weapon spawn will change subject to the map
 
-'true' neutral maps:
+### 'true' neutral maps:
 - Miami Dome
 - Demon Island
 - Western Air Temple
@@ -16,7 +16,7 @@ Lets review the what I mean by a true neutral:
 - Suzaku Castle
  - Mishima Dojo
 
-Maps that do not have 'true' neutral:
+### Maps that do not have 'true' neutral:
 - Apocalypse
 - Small Fortress of Lions
 
