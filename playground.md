@@ -88,16 +88,16 @@ This is most important part of 2v2, if you do this better than your opponent the
 
 ### Favorable Positioning
 Half Stage is simplest but most effective method to learn positioning:
-    - allows team combo potential 
-    - minimizes team damage
-    - greater stage threat as each players threat zone is spread out (overlap of threat is not good)
+- allows team combo potential 
+- minimizes team damage
+- greater stage threat as each players threat zone is spread out (overlap of threat is not good)
 
 
 #### Nicher Cases for Half Stage:
-    - Half and Half = Both teams half staging
-    - Sandwich = One opponent sandwiched between the two of you and One opponent off stage
-    - Diagonal Half Stage = Half Staginig with one person floating
-    - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
+ - Half and Half = Both teams half staging
+ - Sandwich = One opponent sandwiched between the two of you and One opponent off stage
+ - Diagonal Half Stage = Half Staginig with one person floating
+ - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
 
 ##### Half and Half expalined:
    What does both teams half staging entail? If both teams are half staging in allows for a number of things:
@@ -110,9 +110,9 @@ Half Stage is simplest but most effective method to learn positioning:
 
 ##### Sandwich:
 Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall
-    Thought process:
-        - Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding
-            What does this setup:
-                - It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
 
-    s
+Thought process:
+ - Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding
+     What does this setup:
+     - It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
+
