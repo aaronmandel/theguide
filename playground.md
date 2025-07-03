@@ -32,7 +32,7 @@ Waking up on the ground:
     Inputs: Dash down, Slight (think think of it as together)
     - sLight (Side light) moves your character and does not hold you in place as opposed to nLight (neutral light), meaning on miss it's harder to punish
     - sLight has lower recovery frames (stupid I know) than neutral light on miss; meaning its a safer option
-    - sLight does more damage than neutral light
+    - sLight does more damage than neutral light <br/>
 > Waking up in the air: 
 - Dash down and jump nair (neutral air): 
     Inputs: Dash down, jump, nair (one input)
