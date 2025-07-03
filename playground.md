@@ -23,7 +23,7 @@ Lets review the what I mean by a true neutral:
 
 <br/>For now I'll focus on what to do on a map where 'true' neutral is achievable:
 
-In short your options are to defend or attack. At the start of the game since both teams are equally spaced it is possible for the 'front' player to go on the offensive and as soon as they land go in for a dash attack to catch their opponent off guard to get quick early damage, this called a *'wake-up'.* However, if you should be aware of the pros and cons of this.
+In short your options are to defend or attack. At the start of the game since both teams are equally spaced it is possible for the 'front' player to go on the offensive and as soon as they land go in for a dash attack to catch their opponent off guard to get quick early damage, this called a **'wake-up'.** However, if you should be aware of the pros and cons of this.
 
 
 ### How to 'wake-up':
