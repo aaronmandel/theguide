@@ -53,9 +53,6 @@ Cons:
 
 
 
-
-
-
 ## What does not having true neutral entail: <br/>
 When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
 
@@ -64,9 +61,6 @@ In short the options are, is the platform going to be used to attack or repositi
 >What this would look like is someone spawning in and either staying grounded or jumping. You are correct to assume that if both teams are grounded 'true neutral' is achieved but the threat of the platform opens up more options. 
 
     
-
-
-
 
 
 # Guide for 2v2:
@@ -83,8 +77,7 @@ In short the options are, is the platform going to be used to attack or repositi
 ## Positioning in 2v2
 This is most important part of 2v2, if you do this better than your opponent then you win even if your opponent is the 'better' player
 
-
-### Favorable Positioning
+### Favorable Positioning:
 Half Stage is simplest but most effective method to learn positioning:
 - allows team combo potential 
 - minimizes team damage
@@ -108,6 +101,7 @@ Half Stage is simplest but most effective method to learn positioning:
 
 ##### Sandwich: </br>
 Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall
+
 ###### Thought process:  </br>
 > <br/>Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding<br/> What does this setup: <br/>It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
 
