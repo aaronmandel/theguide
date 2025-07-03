@@ -97,7 +97,7 @@ Half Stage is simplest but most effective method to learn positioning:
  - Diagonal Half Stage = Half Staginig with one person floating
  - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
 
-#### Half and Half explained:
+### Half and Half:
 *What does both teams half staging entail? If both teams are half staging in allows for a number of things:*
    - 'front' teammate's job is to either hit first or bait out an attack or punish
    - 'back' teammate's job is to follow up or equalise if 'front' teammate misses
