@@ -57,7 +57,7 @@ Cons:
 
 
 ## What does not having true neutral entail: <br/>
-- When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
+When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
 
 For now I'll briefly go into what you guys should be thinking when you see a platform:<br/>
 In short the options are, is the platform going to be used to attack or reposition or is the platform going to be ignored and just used as a distraction. 
