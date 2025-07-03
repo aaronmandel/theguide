@@ -47,7 +47,7 @@ Pros:
 - Depending on readiness of your teammate and quick team combo can result from this
 
 Cons:
-- If an opponent is expecting the 'wake-up' it can be turned into a small team combo creating a clear disadvantage at the start of the game
+- If an opponent is expecting the *'wake-up'* it can be turned into a small team combo creating a clear disadvantage at the start of the game
 - If connection is not reliable and opponent has ping advantage then you could lose the 'clash' as the game will process your opponents inputs first
 - On miss your teammate is not protected so opponent can contest your 'free' weapon
 
