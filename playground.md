@@ -1,4 +1,21 @@
-# Start of the game
+# Glossary
+nlight: Neutral Light (ground) <br/>
+slight: Side Light (ground) <br/>
+dlight: Down light (ground) <br/>
+nsig:  Neutral Signature/Heavy Attack (ground) <br/>
+ssig: Side Signature/Heavy Attack (ground) <br/>
+dsig: Down Signature/Heavy Attack (ground) <br/>
+nair: Neutral Air  <br/>
+sair: Side Air  <br/>
+dair:  Down Air  <br/>
+Recovery: Aerial Heavy Attack  <br/>
+GC (gc): Gravity Cancel  <br/>
+CD (cd): Chase Dodge  <br/>
+
+> Example Usage of these terms:  <br/> (Sword) dlight jump sair, dlight recovery
+
+
+# Start of the game (2v2)
 The start of the game is the only time of the game where a **true** neutral is obtained, meanining that the first few movements done will set the tone for the rest of the game. 
 
 Lets review the what I mean by a true neutral:
@@ -63,7 +80,7 @@ In short the options are, is the platform going to be used to attack or repositi
     
 
 
-# Guide for 2v2:
+# Guidelines for 2v2:
 - **One person on the stage at all times**
 - It's better to not get hit than finish a combo (Exception is if you can kill or gain a position where you can guarentee kill)
 - **Stay half a stage apart at all times** (refer to positioning for further clarity)
@@ -95,8 +112,8 @@ Half Stage is simplest but most effective method to learn positioning:
 *What does both teams half staging entail? If both teams are half staging in allows for a number of things:*
    - 'front' teammate's job is to either hit first or bait out an attack or punish
    - 'back' teammate's job is to follow up or equalise if 'front' teammate misses
-   - This a normal neutral state:
-        What to do in a neutral state?
+   - This a normal neutral state: <br/>
+        What to do in a neutral state?<br/>
         Keep your half stage but try to move around baiting, only throw out non commit moves when you have a prediction of how the enemy will be moving (eg: sword or bow nair); When moving use everything jump (no more than one jump baiting, use a second jump to pull back if your scared to reset), dash, dash cancel, back dash, dodge.
 
 
