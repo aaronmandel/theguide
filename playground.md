@@ -8,20 +8,20 @@ Lets review the what I mean by a true neutral:
     - A weapon will spawn either on the 'front' or 'back' player
     - Each weapon spawn will change subject to the map
 
-### 'true' neutral maps:
-- Miami Dome
-- Demon Island
-- Western Air Temple
-- Small Terminus
-- Suzaku Castle
- - Mishima Dojo
+'true' neutral maps:
+    - Miami Dome
+    - Demon Island
+    - Western Air Temple
+    - Small Terminus
+    - Suzaku Castle
+    - Mishima Dojo
 
-### Maps that do not have 'true' neutral:
-- Apocalypse
-- Small Fortress of Lions
+Maps that do not have 'true' neutral:
+    - Apocalypse
+    - Small Fortress of Lions
 
 
-<br/>For now I'll focus on what to do on a map where 'true' neutral is achievable:
+For now I'll focus on what to do on a map where 'true' neutral is achievable:
 
 In short your options are to defend or attack. At the start of the game since both teams are equally spaced it is possible for the 'front' player to go on the offensive and as soon as they land go in for a dash attack to catch their opponent off guard to get quick early damage, this called a 'wake-up'. However, if you should be aware of the pros and cons of this.
 
@@ -53,17 +53,25 @@ Cons:
 
 
 
-## What does not having true neutral entail: <br/>
-When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
 
-For now I'll briefly go into what you guys should be thinking when you see a platform:<br/>
-In short the options are, is the platform going to be used to attack or reposition or is the platform going to be ignored and just used as a distraction. 
->What this would look like is someone spawning in and either staying grounded or jumping. You are correct to assume that if both teams are grounded 'true neutral' is achieved but the threat of the platform opens up more options. 
+
+
+## What does not having true neutral entail:
+    When a map doesn't have true neutral it means the map is asymmetrical with how platforms are distributed, this means by nature that a team will start with more options and capabiltiies than an other team, thus making it more advantageous. This advantage becomes more aparent as you climb the rankings as more people will start using 'platform cancels' and 'jumps cancels'.
+
+    For now I'll briefly go into what you guys should be thinking when you see a platform:
+
+    In short the options are, is the platform going to be used to attack or reposition or is the platform going to be ignored and just used as a distraction. 
+
+    What this would look like is someone spawning in and either staying grounded or jumping. You are correct to assume that if both teams are grounded 'true neutral' is achieved but the threat of the platform opens up more options. 
 
     
 
 
-# Guide for 2v2:
+
+
+
+Guide for 2v2:
 - **One person on the stage at all times**
 - It's better to not get hit than finish a combo (Exception is if you can kill or gain a position where you can guarentee kill)
 - **Stay half a stage apart at all times** (refer to positioning for further clarity)
@@ -74,25 +82,25 @@ In short the options are, is the platform going to be used to attack or repositi
 - **Its better to let a combo go than die, or hit your teammate**
 - **Do not take the punish if you yourself are getting punished for the attack** (logically: enemy gets 2 hits, you guys get 1 hit)
 
-## Positioning in 2v2
+## Positioning
 This is most important part of 2v2, if you do this better than your opponent then you win even if your opponent is the 'better' player
 
-### Favorable Positioning:
+
+### Favorable Positioning
 Half Stage is simplest but most effective method to learn positioning:
-- allows team combo potential 
-- minimizes team damage
-- greater stage threat as each players threat zone is spread out (overlap of threat is not good)
+    - allows team combo potential 
+    - minimizes team damage
+    - greater stage threat as each players threat zone is spread out (overlap of threat is not good)
 
 
 #### Nicher Cases for Half Stage:
- - Half and Half = Both teams half staging
- - Sandwich = One opponent sandwiched between the two of you and One opponent off stage
- - Diagonal Half Stage = Half Staginig with one person floating
- - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
+    - Half and Half = Both teams half staging
+    - Sandwich = One opponent sandwiched between the two of you and One opponent off stage
+    - Diagonal Half Stage = Half Staginig with one person floating
+    - Full Stage = Your team occupies the whole stage, with the opponents pushed to the sides 
 
-
-### Half and Half:
-*What does both teams half staging entail? If both teams are half staging in allows for a number of things:*
+##### Half and Half expalined:
+   What does both teams half staging entail? If both teams are half staging in allows for a number of things:
    - 'front' teammate's job is to either hit first or bait out an attack or punish
    - 'back' teammate's job is to follow up or equalise if 'front' teammate misses
    - This a normal neutral state:
@@ -100,8 +108,9 @@ Half Stage is simplest but most effective method to learn positioning:
         Keep your half stage but try to move around baiting, only throw out non commit moves when you have a prediction of how the enemy will be moving (eg: sword or bow nair); When moving use everything jump (no more than one jump baiting, use a second jump to pull back if your scared to reset), dash, dash cancel, back dash, dodge.
 
 
-##### Sandwich: </br>
-Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall <br/>
-###### Thought process:
-> <br/>Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding<br/> What does this setup: <br/>It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
-
+##### Sandwich:
+    Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall
+    Thought process:
+        - Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding
+            What does this setup:
+                - It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
