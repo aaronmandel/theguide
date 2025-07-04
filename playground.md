@@ -57,13 +57,13 @@ In short your options are to defend or attack. At the start of the game since bo
     - nAir is safe on miss as falling onto the ground helps 'reset' your frames reducing the stun
 
 
-Pros:
+### Pros:
 - On sucsess you get early damage
 - On sucsess you get favorable positioning; as the opponents are forced together making their 'threat' range smaller (area where they can attack).
 - Assuming all setups are the same; If your opponent has the same idea, a 'clash' will result going back to a true neutral state (assuming that both teams are not idiots and are going for their weapons)
 - Depending on readiness of your teammate and quick team combo can result from this
 
-Cons:
+### Cons:
 - If an opponent is expecting the *'wake-up'* it can be turned into a small team combo creating a clear disadvantage at the start of the game
 - If connection is not reliable and opponent has ping advantage then you could lose the 'clash' as the game will process your opponents inputs first
 - On miss your teammate is not protected so opponent can contest your 'free' weapon
@@ -117,10 +117,23 @@ Half Stage is simplest but most effective method to learn positioning:
         Keep your half stage but try to move around baiting, only throw out non commit moves when you have a prediction of how the enemy will be moving (eg: sword or bow nair); When moving use everything jump (no more than one jump baiting, use a second jump to pull back if your scared to reset), dash, dash cancel, back dash, dodge.
 
 
-##### Sandwich: </br>
+##### Sandwich: <br/>
 Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall <br/>
 ###### Thought process:
 > <br/>Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding<br/> What does this setup: <br/>It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
 
 To watch 'Sandwiching' takes place watch how boomie loses his [stock](https://youtu.be/UpYvEB5Mang?si=JgfO3erPLlDPnYWL&t=49)
 
+<br/>
+
+
+##### Diagonal Half Stage <br/>
+<ins> *Warning's about diagonal half staging* </ins> <br/>
+Diagonal half stage is something that has varied sucsess depending on weapons, it is also the hardest one of these to do. <br/> Why is it harder than the rest?<br/> Because it requires a person to float, and floating does access to new options, typically quicker moves to follow it allows forces you to burn reasources. Staying on the ground you can burn your dodge, but you still have access to dashing, jumping, backdashing and walking; all of these tools are low commitment and reset quickly allowing you to use a combination of these tools without having to think much about them replenishing. Staying airborn, is not as forgiving. The tools you can use in the air, is two jumps, a recovery, a dodge that takes three seconds to replenish and fastfall (the second jump can be replaced with a second *weaker* recovery). All of these options besides dodge need to be reset on the ground. This means that if teammate 1 is trying to stay airborn for a prolonged period of time, they lose options and when you lose options it's a lot easier to be predictable because less thinking is involved in predict where you land.
+
+Diagonal Half Staging, allows for quick follow up these follow up typically do not lead to extended combo's but are more about maximising damage and gaining stage control or even optimising kill options. Being air born allows for you to hit in any direction you choose, up, down, left, right. Additionally, it also when an opponent is sent above stage diagonal half staging is what should be used, as it put pressure in the air, as well as on the ground.
+> Opponent one is near the top of the kill zone above stage, one teammate should go aerial to threaten the air and increase pressure, this forces the opponent to either go for a move which is a commit or burn more aerial options. One teammate should stay on the ground to threaten the opponent's landing as if the opponent gets past the aeiral teammate, the grounded teammate now threates and controls where he can land, depending on how many reasources the opponent has already burnt this job becomes easier. 
+> *Looking to kill using diagonal staging:* <br/>(Sword): dlight sair <br/> (**floating** Blaster): sair
+
+
+##### Full Stage
