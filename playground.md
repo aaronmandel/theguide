@@ -121,5 +121,6 @@ Half Stage is simplest but most effective method to learn positioning:
 Sandwich is where one opponent is sandwiched in between you two and the other opponent is further off away, typically off stage; This is the best position for combos and to get quick damage. A normal set up for this is one teammate is edge guarding, the other teammate is in the middle of the stage, opponent one is between the two teammates, opponent 2 is off stage trying to recover to the wall <br/>
 ###### Thought process:
 > <br/>Opponent 1 is trying to cover for his teammate getting back so his job is to put pressure on the teammate edge guarding<br/> What does this setup: <br/>It becomes clearer to read opponent 1 as his intentions are to save his teammate meaning he's targeting the teammate edge guarding to reduce risk and pressure on his teammate. If the edge guarding teammate gets punished its the job for the other teammate holding stage to get the punish the opponent advancing. This punish should aim to send opponent 1 off stage so that you can continue edge guarding.
- <br/>To watch 'Sandwiching' takes place watch how boomie loses his [stock](https://youtu.be/UpYvEB5Mang?si=JgfO3erPLlDPnYWL&t=49)
+
+To watch 'Sandwiching' takes place watch how boomie loses his [stock](https://youtu.be/UpYvEB5Mang?si=JgfO3erPLlDPnYWL&t=49)
 
